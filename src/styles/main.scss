@@ -1,0 +1,18 @@
+.columns {
+  justify-content: space-around;
+  display: flex;
+  margin: 0 auto;
+}
+
+/*圆角卡片*/
+.simple-blog-card {
+  background-color: rgba(255, 255, 255, 0.85);
+  display: flex;
+  border-radius: 15px;
+}
+
+/*自动换行*/
+.simple-blog-auto-line-feed {
+  word-wrap: break-word;
+  word-break: break-all;
+}
